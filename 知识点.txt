@@ -1,0 +1,27 @@
+1.字体居中：
+text-align:center;line-height:110px;
+
+2.让他们同行显示：
+			<li>我要投资</li>
+			<li>我要贷款</li>
+			<li>安全保障</li>
+			<li>新手指引</li>
+			<li>关于我们</li>
+display:inline;
+
+3.让div 有个圆角
+border-radius:10px;
+
+4.让div 定在一个地方（相对于页面边上的位置）。
+position:absolute; top:250px; left:920px;
+
+5.input 里的账号密码框 提示内容：
+placeholder="请输入账号"
+
+6.给div加入阴影
+box-shadow:2px 2px 2px 2px #ccc;
+对象选择器 {box-shadow:[投影方式] X轴偏移量 Y轴偏移量阴影模糊半径 阴影扩展半径 阴影颜色}
+
+ 
+	
+		

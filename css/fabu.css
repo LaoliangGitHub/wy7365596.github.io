@@ -1,0 +1,44 @@
+@import "common.css";
+.clear{clear:both;}
+.header{width:1200px;height:110px;margin:0 auto;}
+.header img{margin-left:10%;margin-top:15px;}
+.header ul{float:right;}
+.header ul li{font-size:26px;font-family:Microsoft YaHe;float:left;text-align:center;line-height:110px;margin-right:20px;font-weight:bold;}
+.daohang{width:100%;height:61px;}
+.daohang ul{margin-left:15%;}
+.daohang ul li{margin-right:-37px;font-family:Microsoft YaHe;font-size:18px;text-align:center;line-height:55px;font-weight:bold;}
+
+.yi{display:inline-block;position:relative;z-index:999;background:url(../images/green.png) center no-repeat;width:266px;height:60px;color:#fff;}
+.er{display:inline-block;position:relative;z-index:888;background:url(../images/gray.png) no-repeat center;width:266px;height:60px;}
+.san{display:inline-block;position:relative;z-index:100;background:url(../images/gray.png) no-repeat center;width:266px;height:60px;}
+.si{display:inline-block;position:relative;background:url(../images/gray.png) no-repeat center;width:266px;height:60px;}
+
+.content{width:1205px;height:1100px;border:2px solid #ccc;margin:10px auto;background-color:#F7F7F7;}
+.content ul{margin-left:45px;margin-top:40px}
+.content ul li{display:inline;}
+.content ul li input{height:23px;width:410px;}
+#aaa  li input{height:23px;width:45px;}
+#aaa li input:hover {color:red;}	
+#yunfei li input{height:23px;width:90px;}
+#huibao li{margin-top:15px;}
+#huibao li textarea{height:365px;width:650px;}
+#tiaokuan{margin-left:280px;margin-top:17px;margin-left:300px;}
+#tiaokuan li{display:inline;}
+#tiaokuan li input{height:13px;width:13px;}
+
+
+/*   °´Å¥*/
+.anniu{width:320px;height:90px;margin-left:320px;margin-top:20px;}
+.quxiao{float:left;width:40%;text-align:center;line-height:50px;height:60%;background-color:#8E8E90;border-radius:30px;font-size:22px;color:#fff;font-weight:bold;}
+.queding{float:right;width:40%;height:60%;text-align:center;line-height:50px;background-color:#9DDC2B;border-radius:30px;font-size:22px;color:#fff;font-weight:bold;}
+/*   Í¼*/
+.tupian{background:url(../images/ad.jpg)  no-repeat;width:436px;height:278px;float:right;margin-top:0xp;margin-right:120px;}
+
+
+
+.floot{width:100%;background-color:#F2F5F5}
+.floot p{width:100%;height:30px;font-weight:bold;text-align:center;}
+.floot img{margin-left:70px;}
+.dibu{width:100%;height:60px;background-color:#333333;}
+.dibu ul{margin-left:455px;}
+.dibu ul li{font-size:12px;color:#fff;display:inline;line-height:25px;text-align:center}

@@ -1,0 +1,12 @@
+@import "common.css";
+.clear{clear:both;}
+body{
+	width:100%;height:100%;
+	}
+span{margin-left:190px;}
+.sj{width:100px;
+	height:100px;
+	background:red;
+
+	
+}
